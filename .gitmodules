@@ -1,0 +1,4 @@
+[submodule "themes/silari"]
+	path = themes/silari
+	url = https://gitlab.com/orgsilari/silari.git
+	branch = main
